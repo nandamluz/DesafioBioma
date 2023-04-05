@@ -1,8 +1,6 @@
 # Desafio Estágio
 Desafio desenvolvido com NextsJS, HTML e CSS.
 
-Esse projeto tem o objetivo de treinar os métodos mais populares do JavaScript como: .addEventListener(), .appendChild(), .createElement(), .removeChild(), entre outros.
-
 ## 🚀 Começando
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
